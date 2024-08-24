@@ -1,0 +1,19 @@
+body{
+    background: url(gato_cosmico.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#box{
+    height: auto;
+    width: 250px;
+    border: solid red;
+    background-color: blueviolet;
+    color: white;
+    text-align: justify;
+    padding: 5px;
+    box-shadow: 20px 20px 10px rgb(70, 2, 15) ; 
+}
+h1{
+    color: darkorchid;
+}
